@@ -1,0 +1,12 @@
+{
+    "name": "pc/demo",
+    "description": "A php demo project",
+    "type": "project",
+    "license": "MLT",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "require": {}
+}
